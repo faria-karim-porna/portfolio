@@ -1,0 +1,12 @@
+.problem-solving-card{
+    border-left: 1px solid #08F7FE;
+    box-shadow: 10px 10px 55px #222;
+}
+.problem-solving-title{
+    color: white;
+    font-size: 20px;
+}
+.problem-solving-details{
+    color: #08F7FE;
+    height: 55px;
+}

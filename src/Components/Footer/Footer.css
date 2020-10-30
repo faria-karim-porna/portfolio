@@ -1,0 +1,25 @@
+.footer >p{
+    text-align: center;
+}
+.footer {
+    align-content: center;
+}
+.footer-line-one{
+    color: #08F7FE;
+}
+.footer-line-two{
+    font-size: 40px;
+    color: white;
+}
+.footer-line-three{
+    font-size: 20px;
+    color: white;
+}
+.footer-button{
+    border: none;
+    background-color: black;
+    color:  #08F7FE;
+    border: 1px solid  #08F7FE;
+    padding: 15px 15px;
+    border-radius: 10px;
+}

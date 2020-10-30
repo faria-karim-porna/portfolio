@@ -1,0 +1,38 @@
+.navbar{
+    opacity: 1;
+}
+.nav-link{
+    color: white !important;
+}
+.nav-link:hover{
+    border-bottom: 1px solid#08F7FE;
+}
+.navigationButton{
+    margin-right: 15px;
+    margin-top: 5px;
+    background-color:#08F7FE;
+    background-image: linear-gradient(to right, #08F7FE ,white);
+    border: none;
+    border-radius: 15px;
+    color: black;
+    padding: 2px 10px;
+}
+.logo{
+    text-align: center;
+    color: white;
+    border-radius: 50%;
+    border: 1px solid white;
+    padding: 10px;
+    font-family: 'Sansita Swashed', cursive;
+    margin-left: 10px;
+}
+.headerLink:hover{
+    text-decoration: none;
+}
+.link{
+    text-decoration: none !important;
+}
+.custom-toggler{
+    border-color: white !important;
+    color: white !important;
+}

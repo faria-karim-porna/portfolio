@@ -1,0 +1,36 @@
+body
+{
+    background-color: black !important;
+}
+
+.about-me-text{
+    width: 90%;
+    margin-top: 2%;
+}
+.about-me-intro
+{
+    font-size: 30px;
+    color:#08F7FE;
+}
+.about-me-name
+{
+    font-size: 40px;
+    color:white;
+}
+.about-me-details
+{
+    font-size: 16px;
+    color: white;
+}
+.upperLine{
+    height: 7px;
+    background-color: #08F7FE;
+    width: 100px;
+    border-radius: 10px;
+}
+.about{
+    padding-top: 80px !important;
+}
+.about-text{
+    margin-top: 130px;
+}

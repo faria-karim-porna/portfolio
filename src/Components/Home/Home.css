@@ -1,0 +1,15 @@
+.body
+{
+    display: flex;
+    flex-direction: row !important;
+    overflow: hidden;
+}
+.side
+{
+    width: 50px;
+}
+.main
+{
+    width: 95%;
+    margin-left: 5%;
+}

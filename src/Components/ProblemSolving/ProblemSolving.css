@@ -1,0 +1,15 @@
+.problem-solving{
+    padding-top: 30px !important;
+}
+.home-section-name{
+    color: white;
+    margin-top: 100px;
+    font-size: 30px;
+    text-align: center;
+}
+.home-section-underline{
+    height: 5px;
+    background-color: #08F7FE;
+    width: 70px;
+    border-radius: 10px;
+}
