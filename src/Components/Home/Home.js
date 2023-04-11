@@ -20,8 +20,8 @@ const Home = () => {
         <Navigation></Navigation>
         <Header></Header>
         <AboutMe></AboutMe>
-        {/* <Skills></Skills>
-        <ProblemSolving></ProblemSolving>
+        <Skills></Skills>
+        {/* <ProblemSolving></ProblemSolving>
         <Projects></Projects>
         <Blog></Blog> */}
         {/* <Footer></Footer> */}

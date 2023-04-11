@@ -4,8 +4,6 @@ body {
 
 .skills {
     height: 100vh;
-    position: absolute;
-    top: 200%;
 }
 
 .skills>.row>.col-md-5>h5 {

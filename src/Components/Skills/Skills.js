@@ -8,7 +8,7 @@ const Skills = () => {
   }, []);
   return (
     <body>
-      <div className="container skills" id="skill" data-aos="fade-left">
+      <div className="container skills d-flex align-items-center justify-content-center" id="skill" data-aos="fade-left">
         <div className="row">
           <div className="col-md-5">
             <h5>OS Platforms:</h5>
@@ -18,17 +18,26 @@ const Skills = () => {
             <div className="underLine"></div>
             <p>C/C++</p>
             <p>JavaScript</p>
-            <p>Java</p>
+            <p>TypeScript</p>
+            <p>Php (Familiar)</p>
+            <p>Java (Familiar)</p>
+            <p>Python (Familiar)</p>
             <h5>Frontend Frameworks:</h5>
             <div className="underLine"></div>
             <p>Bootstrap</p>
             <p>React.js</p>
+            <p>Redux</p>
+            <p>Redux Toolkit</p>
             <p>Material UI (Familiar)</p>
             <h5>Backend Frameworks:</h5>
             <div className="underLine"></div>
             <p>Node.js</p>
             <p>Django (Familiar)</p>
             <p>Laravel (Familiar)</p>
+            <h5>Game Development:</h5>
+            <div className="underLine"></div>
+            <p>Construct 2 (Familiar)</p>
+            <p>Unity 3D (Familiar)</p>
           </div>
           <div className="skill-border"></div>
           <div className="col-md-5">
@@ -36,7 +45,7 @@ const Skills = () => {
             <div className="underLine"></div>
             <p>MongoDB</p>
             <p>Firebase</p>
-            <p>XAMPP</p>
+            <p>MySQL</p>
             <h5>IDEs:</h5>
             <div className="underLine"></div>
             <p>Visual Studio Code</p>
@@ -48,7 +57,7 @@ const Skills = () => {
             <p>Git</p>
             <p>Heroku</p>
             <p>Netlify</p>
-            <p>Trello</p>
+            <p>Railway</p>
             <p>Slack</p>
             <p>Chrome Dev Tools</p>
             <h5>Deep Learning Technologies:</h5>
