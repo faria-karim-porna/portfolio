@@ -5,8 +5,9 @@ import home from "../../images/Home.mp4";
 import "./Header.css";
 const Header = () => {
   return (
-    <div className="header">
+    <div className="header position-relative">
       <video autoPlay playsInline loop muted src={home} className="img-fluid video" />
+
       <div className="header-text">
         <p>
           <span className="greeting-text">HI I'M</span> <br /> <span className="name-text">FARIA KARIM PORNA</span>
