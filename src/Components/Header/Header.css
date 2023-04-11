@@ -3,16 +3,15 @@ body {
 }
 
 .header {
-  height: 620px;
-
+  height: 100vh;
 }
 
 .video {
-  margin-top: 5%;
+  /* margin-top: 5%;
   width: 95% !important;
   background-color: black !important;
   margin-left: 5%;
-  height: 100vh !important;
+  height: 100vh !important; */
 }
 
 .header-text {
