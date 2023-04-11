@@ -19,7 +19,7 @@ const Home = () => {
       <div className="main">
         <Navigation></Navigation>
         <Header></Header>
-        {/* <AboutMe></AboutMe> */}
+        <AboutMe></AboutMe>
         {/* <Skills></Skills>
         <ProblemSolving></ProblemSolving>
         <Projects></Projects>
