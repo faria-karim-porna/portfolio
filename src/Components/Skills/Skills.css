@@ -4,6 +4,7 @@ body {
 
 .skills {
     height: 100vh;
+    margin-top: 100px;
 }
 
 .skills>.row>.col-md-5>h5 {

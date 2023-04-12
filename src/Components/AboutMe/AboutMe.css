@@ -30,7 +30,8 @@ body {
 }
 
 .about {
-    height: 1200px;
+    /* height: 1200px; */
+    margin-top: 5rem;
 }
 
 .about-text {

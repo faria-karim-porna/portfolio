@@ -43,14 +43,6 @@ const AboutMe = () => {
                 the competition.
               </p>
               <p>
-                I possess a wide range of work experience and have a keen interest in exploring new ideas. My skillset encompasses a sound
-                understanding of Operating Systems, Data Structures and Algorithms, Computer Networks, Databases, Software Design Patterns,
-                and different types of Software Architectures. I enjoy problem-solving a lot. To date, I have tackled and successfully
-                resolved over 100 problems across various online judges, and my proficiency as a coder is reflected in my three-star status
-                on HackerRank. Additionally, I have participated twice in the ACM ICPC, and in 2018, I qualified for the off-site round of
-                the competition.
-              </p>
-              <p>
                 I possess practical expertise in several backend frameworks such as Node.js, Django, and Laravel. Moreover, I have utilized
                 React.js as a front-end library for most of the projects.
               </p>
